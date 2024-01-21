@@ -1,0 +1,14 @@
+{
+  "name": "smtp2graph-website",
+  "version": "1.0.0",
+  "description": "Documentation website for SMTP2Graph",
+  "main": "index.js",
+  "scripts": {
+    "start": "docsify serve"
+  },
+  "author": "RoelVB",
+  "license": "ISC",
+  "devDependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
