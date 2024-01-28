@@ -16,6 +16,5 @@ SMTP2Graph is a SMTP server that will send messages over the Microsoft 365/Excha
 - TLS support
 - IP whitelist
 - FROM whitelist
-- RCPT whitelist
 - Rate limiter
 - Brute force protection
