@@ -4,8 +4,8 @@
 
 ?> Note that SMTP2Graph and this documentation is still under active development. Additional feature and information will be added in the future
 
-![GitHub Last Release](https://img.shields.io/github/v/release/SMTP2Graph/SMTP2Graph?style=for-the-badge)
-![GitHub Last Release Date](https://img.shields.io/github/release-date/smtp2graph/smtp2graph?style=for-the-badge)
+[![GitHub Last Release](https://img.shields.io/github/v/release/SMTP2Graph/SMTP2Graph?style=for-the-badge)](https://github.com/SMTP2Graph/SMTP2Graph/releases)
+[![GitHub Last Release Date](https://img.shields.io/github/release-date/smtp2graph/smtp2graph?style=for-the-badge)](https://github.com/SMTP2Graph/SMTP2Graph/releases)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/roelvb?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/RoelVB)
 [![GitHub Repo stars](https://img.shields.io/github/stars/smtp2graph/smtp2graph?style=for-the-badge&logo=github&color=E3B341)](https://github.com/SMTP2Graph/SMTP2Graph/stargazers)
 
