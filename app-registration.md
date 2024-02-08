@@ -63,4 +63,4 @@ It's possible to allow SMTP2Graph to send from a distribution list's email addre
 5. Add your `smtp2graph@example.com` mailbox (yes, this can be a shared mailbox), and press "Save changes"  
 ![Edit delegates](media/distributionlist02.png ':size=350')
 6. In your SMTP2Graph config file, set the option [Send: Force mailbox](config.md#send-force-mailbox) to `smtp2graph@example.com`
-7. Now SMTP2Graph is able to send items from the distribution list's email address (they will be send from the `smtp2graph@example.com` mailbox, thus they will be in the `Send items` folder of that mailbox)
+7. Now SMTP2Graph is able to sent items from the distribution list's email address (they will be send from the `smtp2graph@example.com` mailbox, thus they will be in the `Sent items` folder of that mailbox)

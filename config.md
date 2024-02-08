@@ -99,7 +99,7 @@ send:
 
 #### Send: Force mailbox
 
-SMTP2Graph always sends from a mailbox (user or shared), the send message will appear in the `Send items` folder of this mailbox.  
+SMTP2Graph always sends from a mailbox (user or shared), the send message will appear in the `Sent items` folder of this mailbox.  
 By default it sends from the mailbox supplied as the from address. If the app registration doesn't have permissions to send from this mailbox it will fail to relay the message.
 
 ?> See [Mail from distribution list](app-registration.md#mail-from-distribution-list) for more information
