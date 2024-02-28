@@ -10,7 +10,12 @@
 
 ## Docker
 
-> Coming soon
+1. Create a folder and put an SMTP2Graph config in it
+    - SMTP2Graph will also store logs and the message queue in this folder
+2. Mount your folder to `/data` in the container and expose port 587
+3. Run the image (example: `docker run -p 587:587 -v ./smtp2graph:/data smtp2graph/smtp2graph:latest`)
+
+[![Docker version](https://img.shields.io/docker/v/smtp2graph/smtp2graph?style=for-the-badge&logo=docker)](https://hub.docker.com/r/smtp2graph/smtp2graph)
 
 ## NodeJS
 
