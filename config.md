@@ -28,13 +28,13 @@ There's a schema for the config that will provider additional information, add a
 <summary>VSCode usage</summary>
 
 1. Make sure you have the [YAML extension](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) installed
-2. Add this line to the top of you `config.yaml`: `# yaml-language-server: $schema=https://raw.githubusercontent.com/SMTP2Graph/SMTP2Graph/main/config.schema.json`
+2. Add this line to the top of you `config.yml`: `# yaml-language-server: $schema=https://raw.githubusercontent.com/SMTP2Graph/SMTP2Graph/main/config.schema.json`
 
 </details>
 
 ## Alternative config file/path
 
-You can supply an alternative config file/path when starting SMTP2Graph by supplying the `--config` argument. You startup commend would look like: `smtp2graph-win-x64.exe --config=myconfig.yaml`
+You can supply an alternative config file/path when starting SMTP2Graph by supplying the `--config` argument. You startup commend would look like: `smtp2graph-win-x64.exe --config=myconfig.yml`
 
 
 ## Config options
