@@ -67,7 +67,7 @@ Example:
 ```yaml
 send:
   appReg:
-    tenant: contoso # This should be your tenant name (what comes before .onmicrosoft.com)
+    tenant: contoso # This should be your tenant name (what comes before .onmicrosoft.com) OR your tenantID (GUID)
     id: 01234567-89ab-cdef-0123-456789abcdef # You application ID
     certificate: # The certificate you've registered with the app registration
       thumbprint: 0123456789ABCDEF0123456789ABCDEF01234567
