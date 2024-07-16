@@ -245,3 +245,18 @@ receive:
   duration: 30 # Time in seconds (so this is half a minute)
   limit: 5 # Maximum number of attempts in the time period
 ```
+
+### HTTP Proxy
+
+If you need SMTP2Graph to communicate with the Microsoft Graph over a proxy.
+
+?> Supported since v1.1
+
+```yaml
+httpProxy: 
+  host: myproxy # Hostname or IP for the proxy
+  port: 3000 # Proxy port
+  protocol: https # Optional: http or https (default: http)
+  username: user # Optional: Username for proxy authentication
+  password: pass # Optional: Password for proxy authentication
+```
